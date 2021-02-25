@@ -62,3 +62,7 @@ See the [official Contentful getting started guide](https://www.contentful.com/d
 Feel free to open pull requests to fix bugs. If you want to add features, please have a look at the [original version](https://github.com/contentful-userland/gatsby-contentful-starter). It is always open to contributions and pull requests.
 
 You can learn more about how Contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
+
+## Deploy status badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98736ae2-0fc3-47c6-a3f5-007a407c280a/deploy-status)](https://app.netlify.com/sites/cranky-ritchie-dadb54/deploys)
